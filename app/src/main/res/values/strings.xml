@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">春节倒计时</string>
+
+    <string name="now_time_tips">当前时间：%s</string>
+    <string name="holi_time_tips">距离放假还有：%s</string>
+    <string name="go_time_tips">距离回家还有：%s</string>
+    <string name="spr_time_tips">距离春节还有：%s</string>
+</resources>
